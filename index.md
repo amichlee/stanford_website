@@ -59,6 +59,9 @@ An Action Space for Reinforcement Learning in Contact-Rich Tasks**
     Michelle A. Lee\*, Carlos Florensa\*, Jonathan Tremblay, Nathan Ratliff, Animesh Garg, Fabio Ramos,  and Dieter Fox 
 
      _IEEE International Conference on Robotics and Automation (ICRA), May 2020_ 
+
+     <span style="color:blue">Best Paper Award at the NeurIPS Robot Learning Workshop 2019 </span>
+
     
     [[Paper]]() [[Website]](https://sites.google.com/view/guapo-rl) [[Video]](https://www.youtube.com/watch?v=_RGBMdiSMgw)
 
