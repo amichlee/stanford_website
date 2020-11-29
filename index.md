@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="AIS_square.jpeg">
 
-Hi! I am a third year PhD candidate in the Stanford AI Lab, interested in robot learning, perception, and controls. 
+Hello! I am a fourth year PhD candidate in the Stanford AI Lab, interested in robot learning, perception, and controls. 
 
 **Email:** michellelee@cs.stanford.edu
 
@@ -16,28 +16,59 @@ Gates Computer Science Building, Room 132 <br>
 353 Serra Mall, Stanford University<br>
 Stanford, CA 94305-9025, USA<br>
 
-## News
+## Recent News
+I will be speaking on the panel at the NeurIPS 2020 [Object Representatons for Learning and Reasoning Workshop](https://orlrworkshop.github.io/index.html)
+
+One paper accepted in IROS 2020
 
 One paper accepted in ICRA 2020
 
-Our journal version of the Multimodal Representation paper has been accepted to T-RO
-
-Our paper [Guided Uncertainty Aware Policy Optimization](http://www.robot-learning.ml/2019/files/papers/Guided%20Uncertainty-Aware%20Policy%20Optimization:%20Combining%20Learning%20and%20Model-Based%20Strategies%20for%20Sample-Efficient%20Policy%20Learning.pdf) won best paper at the Robot Learning workshop at NeurIPS 2019. 
-
-One paper accepted in IROS 2019. 
-
-We won the Best Conference Paper Award at ICRA 2019 in Montreal. We also were the Best Award in Cognitive Robotics Finalist. 
-
 
 ## Publications
+1. **Making sense of vision and touch: Self-supervised learning of multimodal representations for contact-rich tasks** 
+    
+    Michelle A. Lee\*, Yuke Zhu\*, Krishnan Srinivasan, Parth Shah, Silvio Savarese, Li Fei-Fei, Animesh Garg, Jeannette Bohg 
 
-1. Lee, M. A., Zhu, Y., Zachares, P., Tan, M., Srinivasan, K., Savarese, S., Fei-Fei, L., Garg, A.,  & Bohg, J. (2019). Making sense of vision and touch: Learning multimodal representations for contact-rich tasks. IEEE Transactions on Robotics. 
+    _IEEE International Conference on Robotics and Automation (ICRA), May 2019_
 
-2. Martín-Martín, R., Lee, M. A., Gardner, R., Savarese, S., Bohg, J., & Garg, A. (2019). Variable Impedance Control in End-Effector Space: An Action Space for Reinforcement Learning in Contact-Rich Tasks. In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE.
+    <span style="color:blue">Best Paper Award in ICRA 2019 </span>
 
-3. Lee, M. A\*, Zhu, Y.\*, Srinivasan, K., Shah, P., Savarese, S., Fei-Fei, L., Garg, A., & Bohg, J. (2019). Making sense of vision and touch: Self-supervised learning of multimodal representations for contact-rich tasks. In 2019 IEEE International Conference on Robotics and Automation (ICRA). IEEE.
+    <span style="color:blue">Finalist for Best Paper in Cognitive Robotics in ICRA 2019</span>.
 
-4. Lee, M. A.\*, Florensa, C.\*, Tremblay, J., Ratliff, N., Garg, A., Ramos, F., & Fox, D. (2020). Guided Uncertainty Aware Policy Optimization: Combining Learning and Model-Based Strategies for Sample-Efficient Policy Learning. In 2020 IEEE International Conference on Robotics and Automation (ICRA). IEEE.  
+    [[Paper]](https://arxiv.org/abs/1810.10191) [[Website]](https://sites.google.com/view/visionandtouch) [[Video]](https://www.youtube.com/watch?v=usFQ8hNtE8c&feature=emb_title) [[Code and Dataset]](https://github.com/stanford-iprl-lab/multimodal_representation/)
+
+2. **Variable Impedance Control in End-Effector Space:
+An Action Space for Reinforcement Learning in Contact-Rich Tasks**
+
+    Roberto Martín-Martín, Michelle A. Lee, Rachel Gardner, Silvio Savarese, Jeannette Bohg, Animesh Garg
+
+    _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), November 2019_
+
+    [[Paper]](https://arxiv.org/abs/1906.08880) [[Website]](https://stanfordvl.github.io/vices/) [[Video]](https://www.youtube.com/watch?v=AozIUIW3Ghs&feature=youtu.be)
+
+3. **Making sense of vision and touch: Learning multimodal representations for contact-rich tasks**
+    
+     Michelle A. Lee, Yuke Zhu, Peter Zachares, Matthew Tan, Krishnan Srinivasan, Silvio Savarese, Li Fei-Fei, Animesh Garg, Jeannette Bohg
+
+     _IEEE Transactions on Robotics, March 2020_
+
+    [[Paper]](http://ieeexplore.ieee.org/document/9043710) [[Code and Dataset]](https://github.com/stanford-iprl-lab/multimodal_representation/)
+
+4. **Guided Uncertainty Aware Policy Optimization: Combining Learning and Model-Based Strategies for Sample-Efficient Policy Learning**
+    
+    Michelle A. Lee\*, Carlos Florensa\*, Jonathan Tremblay, Nathan Ratliff, Animesh Garg, Fabio Ramos,  and Dieter Fox 
+
+     _IEEE International Conference on Robotics and Automation (ICRA), May 2020_ 
+    
+    [[Paper]]() [[Website]](https://sites.google.com/view/guapo-rl) [[Video]](https://www.youtube.com/watch?v=_RGBMdiSMgw)
+
+5. **Multimodal Sensor Fusion with Differentiable Filters**
+    
+    Michelle A. Lee\*, Brent Yi\*, Roberto Martín-Martín, Silvio Savarese, Jeannette Bohg
+     
+    _IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), October 2020_
+
+    [[Paper]](https://arxiv.org/abs/2010.13021) [[Website]](https://sites.google.com/view/multimodalfilter) [[Code]](https://github.com/brentyi/multimodalfilter)
 
 
 

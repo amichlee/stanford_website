@@ -1,0 +1,61 @@
+I"X<h2 id="about-me">About Me</h2>
+
+<p><img class="profile-picture" src="AIS_square.jpeg" /></p>
+
+<p>Hi! I am a fourth year PhD candidate in the Stanford AI Lab, interested in robot learning, perception, and controls.</p>
+
+<p><strong>Email:</strong> michellelee@cs.stanford.edu</p>
+
+<p><strong>Twitter:</strong> <a href="https://twitter.com/michellearning">michellearning</a></p>
+
+<p>Gates Computer Science Building, Room 132 <br />
+353 Serra Mall, Stanford University<br />
+Stanford, CA 94305-9025, USA<br /></p>
+
+<h2 id="news">News</h2>
+<p>I will be on the panel at the NeurIPS 2020 <a href="https://orlrworkshop.github.io/index.html">Object Representatons for Learning and Reasoning Workshop</a></p>
+
+<p>One paper accepted in IROS 2020</p>
+
+<p>One paper accepted in ICRA 2020</p>
+
+<p>Our journal version of the Multimodal Representation paper has been accepted to T-RO</p>
+
+<p>Our paper <a href="http://www.robot-learning.ml/2019/files/papers/Guided%20Uncertainty-Aware%20Policy%20Optimization:%20Combining%20Learning%20and%20Model-Based%20Strategies%20for%20Sample-Efficient%20Policy%20Learning.pdf">Guided Uncertainty Aware Policy Optimization</a> won best paper at the Robot Learning workshop at NeurIPS 2019.</p>
+
+<p>One paper accepted in IROS 2019.</p>
+
+<p>We won the Best Conference Paper Award at ICRA 2019 in Montreal. We also were the Best Award in Cognitive Robotics Finalist.</p>
+
+<h2 id="invited-talks">Invited Talks</h2>
+
+<h2 id="publications">Publications</h2>
+<ol>
+  <li>
+    <p>Lee, M. A*, Zhu, Y.*, Srinivasan, K., Shah, P., Savarese, S., Fei-Fei, L., Garg, A., &amp; Bohg, J. (2019). Making sense of vision and touch: Self-supervised learning of multimodal representations for contact-rich tasks. In 2019 IEEE International Conference on Robotics and Automation (ICRA). IEEE.</p>
+
+    <p><a href="https://arxiv.org/abs/1810.10191">[Paper]</a> <a href="https://sites.google.com/view/visionandtouch">[Website]</a> <a href="https://www.youtube.com/watch?v=usFQ8hNtE8c&amp;feature=emb_title">[Video]</a></p>
+  </li>
+  <li>
+    <p>Martín-Martín, R., Lee, M. A., Gardner, R., Savarese, S., Bohg, J., &amp; Garg, A. (2019). Variable Impedance Control in End-Effector Space: An Action Space for Reinforcement Learning in Contact-Rich Tasks. In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE.</p>
+
+    <p><a href="https://arxiv.org/abs/1906.08880">[Paper]</a> <a href="https://stanfordvl.github.io/vices/">[Website]</a> <a href="https://www.youtube.com/watch?v=AozIUIW3Ghs&amp;feature=youtu.be">[Video]</a></p>
+  </li>
+  <li>
+    <p>Lee, M. A., Zhu, Y., Zachares, P., Tan, M., Srinivasan, K., Savarese, S., Fei-Fei, L., Garg, A.,  &amp; Bohg, J. (2020). Making sense of vision and touch: Learning multimodal representations for contact-rich tasks. In IEEE Transactions on Robotics.</p>
+
+    <p><a href="http://ieeexplore.ieee.org/document/9043710">[Paper]</a></p>
+  </li>
+  <li>
+    <p>Lee, M. A.*, Florensa, C.*, Tremblay, J., Ratliff, N., Garg, A., Ramos, F., &amp; Fox, D. (2020). Guided Uncertainty Aware Policy Optimization: Combining Learning and Model-Based Strategies for Sample-Efficient Policy Learning. In 2020 IEEE International Conference on Robotics and Automation (ICRA). IEEE.</p>
+
+    <p><a href="">[Paper]</a> <a href="">[Website]</a> <a href="">[Video]</a></p>
+  </li>
+  <li>
+    <p>Lee, M. A.*, Yi, B.*, Martín-Martín, R., Savarese, S., Bohg, J. (2020). Multimodal Sensor Fusion with Differentiable Filters. In 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE.</p>
+
+    <p><a href="">[Paper]</a> <a href="">[Website]</a> <a href="">[Video]</a></p>
+  </li>
+</ol>
+
+:ET
