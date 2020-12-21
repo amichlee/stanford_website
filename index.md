@@ -17,11 +17,23 @@ Gates Computer Science Building, Room 132 <br>
 Stanford, CA 94305-9025, USA<br>
 
 ## Recent News
-I will be speaking on the panel at the NeurIPS 2020 [Object Representatons for Learning and Reasoning Workshop](https://orlrworkshop.github.io/index.html)
+* I will be speaking on the panel at the NeurIPS 2020 [Object Representatons for Learning and Reasoning Workshop](https://orlrworkshop.github.io/index.html)
 
-One paper accepted in IROS 2020
+* One paper accepted in IROS 2020
 
-One paper accepted in ICRA 2020
+* One paper accepted in ICRA 2020
+
+## Invited Talks
+
+* NeurIPS 2020 Object Representations for Learning and Reasoning Workshop, Panel Discussion, December 11, 2020
+
+* NVIDIA GTC 2020, “Deep Dive with Michelle A. Lee, Making Sense of Vision and Touch: Self- Supervised Learning of Multimodal Representations for Contact-Rich Tasks (ICRA),” May 14, 2020
+
+* National Cheng Kung University Institute of Manufacturing Information and Systems Seminar Talk, “Multimodal Fusion for Robust Learning,” May 7, 2020
+
+* Stanford Computer Science Faculty Lunch Ph.D. Student Presentation, “Making Sense of Vision and Touch: Combining Sensor Modalities for Robust Robot Learning,” March 17, 2020
+
+* NeurIPS 2019 Workshop on Robot Learning: Control and Interaction in the Real World, “Best Paper Invited Talk: Guided Uncertainty-Aware Policy Optimization,” December 14, 2019
 
 
 ## Publications
@@ -73,6 +85,20 @@ An Action Space for Reinforcement Learning in Contact-Rich Tasks**
 
     [[Paper]](https://arxiv.org/abs/2010.13021) [[Website]](https://sites.google.com/view/multimodalfilter) [[Code]](https://github.com/brentyi/multimodalfilter)
 
+6. **Detect, Reject, Correct: Crossmodal Compensation of Corrupted Sensors**
+    
+    Michelle A. Lee, Matthew Tan, Yuke Zhu, Jeannette Bohg
+
+    Submitted to ICRA 2021
+
+    [[Paper]](https://arxiv.org/abs/2012.00201) [[Website]](https://sites.google.com/view/crossmodal-compensation/)
+
+
+7. **Interpreting Contact Interactions to Overcome Failure in Robot Assembly Tasks**
+
+    Peter A. Zachares, Michelle A. Lee, Wenzhao Lian, Jeannette Bohg
+
+    Submitted to ICRA 2021 
 
 
 
