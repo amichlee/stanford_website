@@ -18,11 +18,13 @@ Stanford, CA 94305-9025, USA<br>
 
 ## Recent News
 
-* One paper submitted to IROS 2021
 
-* Two paper accepted in ICRA 2021 
-
-* I will be speaking on the panel at the NeurIPS 2020 [Object Representatons for Learning and Reasoning Workshop](https://orlrworkshop.github.io/index.html)
+* [March 2021] One paper submitted to IROS 2021
+* [March 2021] Two paper accepted in ICRA 2021 
+* [March 2021] Invited Talk at UPenn MEAM Seminar
+* [January 2021] Invited Talk at Google Robotics 
+* [December 2020] Invited Talk at NVIDIA Research 
+* [December 2020] I was invited to speak on the panel at the NeurIPS 2020 [Object Representatons for Learning and Reasoning Workshop](https://orlrworkshop.github.io/index.html)
 
 
 
@@ -112,6 +114,12 @@ An Action Space for Reinforcement Learning in Contact-Rich Tasks**
     Brent Yi, Michelle A. Lee, Alina Kloss, Roberto Martín-Martín, Jeannette Bohg
 
     Submitted to IROS 2021 
+
+## Teaching
+
+* [2019] Stanford CS336: Robot Perception and Decision-Making, teaching assistant
+* [2018] Stanford AI4All Research Mentor
+* [2017] Stanford CS326:Topics in Advanced Robotic Manipulation, teaching assistant
 
 
 
