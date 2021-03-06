@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="AIS_square.jpeg">
 
-Hello! I am a fourth year PhD candidate in the Stanford AI Lab, interested in robot learning, perception, and controls. 
+I am a last-year PhD candidate in the Stanford AI Lab, interested in robot learning, perception, and controls. 
 
 **Email:** michellelee@cs.stanford.edu
 
