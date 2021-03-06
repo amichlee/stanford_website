@@ -17,11 +17,14 @@ Gates Computer Science Building, Room 132 <br>
 Stanford, CA 94305-9025, USA<br>
 
 ## Recent News
+
+* One paper submitted to IROS 2021
+
+* Two paper accepted in ICRA 2021 
+
 * I will be speaking on the panel at the NeurIPS 2020 [Object Representatons for Learning and Reasoning Workshop](https://orlrworkshop.github.io/index.html)
 
-* One paper accepted in IROS 2020
 
-* One paper accepted in ICRA 2020
 
 ## Invited Talks
 
@@ -89,7 +92,9 @@ An Action Space for Reinforcement Learning in Contact-Rich Tasks**
     
     Michelle A. Lee, Matthew Tan, Yuke Zhu, Jeannette Bohg
 
-    Submitted to ICRA 2021
+    _IEEE International Conference on Robotics and Automation (ICRA), June 2021_
+
+    
 
     [[Paper]](https://arxiv.org/abs/2012.00201) [[Website]](https://sites.google.com/view/crossmodal-compensation/)
 
@@ -98,7 +103,17 @@ An Action Space for Reinforcement Learning in Contact-Rich Tasks**
 
     Peter A. Zachares, Michelle A. Lee, Wenzhao Lian, Jeannette Bohg
 
-    Submitted to ICRA 2021 
+    _IEEE International Conference on Robotics and Automation (ICRA), June 2021_
+
+    [[Paper]](https://arxiv.org/abs/2101.02725)
+
+8. **Differentiable Factor Graph Optimization for Learning Smoothers**
+
+    Brent Yi, Michelle A. Lee, Alina Kloss, Roberto Martín-Martín, Jeannette Bohg
+
+    Submitted to IROS 2021 
+
+
 
 
 
