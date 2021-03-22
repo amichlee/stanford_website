@@ -18,7 +18,8 @@ Stanford, CA 94305-9025, USA<br>
 
 ## Recent News
 
-
+* [March 2021] Invited Talk at NYU CS Colloquium 
+* [March 2021] Invited Talk as Distinguished Lecturer at UT Austin CS Department
 * [March 2021] One paper submitted to IROS 2021
 * [March 2021] Two paper accepted in ICRA 2021 
 * [March 2021] Invited Talk at UPenn MEAM Seminar
